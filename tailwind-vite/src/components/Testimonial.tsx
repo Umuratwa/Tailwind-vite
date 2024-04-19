@@ -111,7 +111,7 @@ const Testimonial = () => {
                     <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                       Bound - Trolola
                     </p>
-                    <h3 className="text-2xl font-bold">Jone Duone Joe</h3>
+                    <h3 className="text-2xl font-bold">Rebecca Umuratwa</h3>
                     <p className="text-base tracking-wide text-gray-500">
                       Operation Officer
                     </p>

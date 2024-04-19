@@ -1,5 +1,6 @@
 import { AiFillAppstore } from "react-icons/ai";
 import { FaMobile, FaGlobe } from "react-icons/fa";
+
 import { SiProgress, SiAntdesign } from "react-icons/si";
 import Card from "./Card";
 import Title from "./Title";
@@ -11,6 +12,7 @@ const Feature = () => {
       id="features"
       className="w-full py-20 border-b-[1px] border-b-gray-700 text-green-500"
     >
+    
       <FadeIn>
         <Title title="Features" des="What I Do"/>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-20">

@@ -8,20 +8,20 @@ const Footer = () => {
       <div className="w-full h-full flex flex-col gap-8">
         <img className="w-32" src={logo} alt="logo" />
         <div className="flex gap-4">
-          <a href="https://www.youtube.com/@reactjsBD" target="_blank">
+          <a href="https://www.youtube.com/results?search_query=w3schools" target="_blank">
             <span className="bannerIcon">
               <FaYoutube />
             </span>
           </a>
           <a
-            href="https://www.linkedin.com/in/noor-mohammad-ab2245193/"
+            href="https://github.com/Umuratwa/Tailwind-vite/tree/main/tailwind-vite"
             target="_blank"
           >
             <span className="bannerIcon">
               <FaLinkedinIn />
             </span>
           </a>
-          <a href="https://www.facebook.com/Noorlalu143/" target="_blank">
+          <a href="https://www.facebook.com/stories/356506198477706/UzpfSVNDOjE2MzkxMjk2OTY5MTc2MDY=/?bucket_count=9&source=story_tray" target="_blank">
             <span className="bannerIcon">
               <FaFacebookF />
             </span>
