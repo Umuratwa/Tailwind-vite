@@ -1,12 +1,12 @@
-import { AiFillAppstore } from "react-icons/ai";
+// import { AiFillAppstore } from "react-icons/ai";
 import { FaMobile, FaGlobe } from "react-icons/fa";
 
-import { SiProgress, SiAntdesign } from "react-icons/si";
+// import { SiProgress, SiAntdesign } from "react-icons/si";
 import Card from "./Card";
 import Title from "./Title";
 import { FadeIn } from "./FadeIn";
 
-const Feature = () => {
+const Feature = () =>{
   return (
     <section
       id="features"
